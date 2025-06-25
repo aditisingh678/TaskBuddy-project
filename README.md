@@ -2,27 +2,26 @@
 
 **Features**
 
-.Add Tasks: Users can add new tasks to the list.
+**.Add Tasks:** Users can add new tasks to the list.
 
-.Update Tasks: Users can edit the details of existing tasks.
+**.Update Tasks:** Users can edit the details of existing tasks.
 
-.Delete Tasks: Users can remove tasks from the list.
+**.Delete Tasks:** Users can remove tasks from the list.
 
-.Clear All Tasks: Users can clear all tasks with a single click.
+**.Clear All Tasks:** Users can clear all tasks with a single click.
 
-.Progress Tracker: Visual representation of the task completion status.
+****.Progress Tracker:** Visual representation of the task completion status.
 
 
 **Usage**
 
-Adding Tasks: Enter task details and click "Add Task" to add a new task.
+**Adding Tasks:** Enter task details and click "Add Task" to add a new task.
 
-Updating Tasks: Click on a task to edit its details.
+**Updating Tasks:** Click on a task to edit its details.
 
-Deleting Tasks: Click the trash icon next to a task to delete it.
 
-Clearing All Tasks: Click the "Clear All Tasks" button to remove all tasks.
+C**learing All Tasks:** Click the "Clear All Tasks" button to remove all tasks.
 
-Progress Tracker: View the progress of your tasks in the progress tracker
+**Progress Tracker:** View the progress of your tasks in the progress tracker
 
 ![image](https://github.com/user-attachments/assets/e314c0d5-96c7-4260-88cc-2c12f552c566)
